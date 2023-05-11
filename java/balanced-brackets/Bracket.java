@@ -1,6 +1,4 @@
 import java.io.*;
-import java.lang.reflect.Array;
-import java.util.List;
 import java.util.Stack;
 
 public class Bracket {
